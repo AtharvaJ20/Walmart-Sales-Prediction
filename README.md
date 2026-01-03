@@ -1,0 +1,1 @@
+This project focuses on predicting weekly sales for Walmart stores using historical sales data and various external factors such as holidays, store types, fuel prices, temperature, and economic indicators. The goal is to understand how these factors influence sales and to build a machine learning regression model that can accurately forecast future sales.
